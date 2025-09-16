@@ -542,16 +542,19 @@ graph TD
     H --> L[(📊 Dados Oficiais)]
     F --> M[(🗄️ Cache ML Models)]
     
-    style A fill:#e1f5fe,stroke:#01579b,stroke-width:3px
-    style B fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
-    style C fill:#e8f5e8,stroke:#1b5e20,stroke-width:2px
-    style D fill:#fff3e0,stroke:#e65100,stroke-width:2px
-    style E fill:#fce4ec,stroke:#880e4f,stroke-width:2px
-    style F fill:#e0f2f1,stroke:#004d40,stroke-width:2px
-    style G fill:#f1f8e9,stroke:#33691e,stroke-width:2px
-    style H fill:#ffebee,stroke:#b71c1c,stroke-width:2px
-    style L fill:#ffebee,stroke:#b71c1c,stroke-width:2px
-    style M fill:#e0f2f1,stroke:#004d40,stroke-width:2px
+    style A fill:#0d47a1,stroke:#ffffff,stroke-width:3px,color:#ffffff
+    style B fill:#4a148c,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style C fill:#1b5e20,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style D fill:#e65100,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style E fill:#880e4f,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style F fill:#004d40,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style G fill:#33691e,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style H fill:#b71c1c,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style I fill:#4a148c,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style J fill:#004d40,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style K fill:#33691e,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style L fill:#b71c1c,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style M fill:#004d40,stroke:#ffffff,stroke-width:2px,color:#ffffff
 ```
 
 ### 🔄 **Pipeline de Machine Learning**
@@ -574,13 +577,17 @@ flowchart LR
     I --> J[📊 Predictions Ready]
     J --> K[🔌 ML API Endpoints]
     
-    style A fill:#ffebee,stroke:#c62828,stroke-width:3px
-    style D fill:#e8f5e8,stroke:#2e7d32,stroke-width:2px
-    style E fill:#fff3e0,stroke:#f57c00,stroke-width:2px
-    style G fill:#e1f5fe,stroke:#0277bd,stroke-width:2px
-    style H fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
-    style I fill:#e0f2f1,stroke:#00695c,stroke-width:2px
-    style J fill:#e8f5e8,stroke:#388e3c,stroke-width:3px
+    style A fill:#c62828,stroke:#ffffff,stroke-width:3px,color:#ffffff
+    style B fill:#424242,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style C fill:#0277bd,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style D fill:#2e7d32,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style E fill:#f57c00,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style F fill:#1976d2,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style G fill:#0277bd,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style H fill:#7b1fa2,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style I fill:#00695c,stroke:#ffffff,stroke-width:2px,color:#ffffff
+    style J fill:#388e3c,stroke:#ffffff,stroke-width:3px,color:#ffffff
+    style K fill:#1565c0,stroke:#ffffff,stroke-width:2px,color:#ffffff
 ```
 
 ### ⚡ **Fluxo de Análise de Crédito**
